@@ -236,18 +236,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/baseline-extension/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/baseline-extension/discussions)
-- **Email**: your-email@example.com
+- **Issues**: [GitHub Issues](https://github.com/theanant404/Baseline-Vscode-Extension/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/theanant404/Baseline-Vscode-Extension/discussions)
+
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/baseline-extension?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/baseline-extension?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/baseline-extension)
+![GitHub stars](https://img.shields.io/github/stars/theanant404/Baseline-Vscode-Extension?style=social)
+![GitHub forks](https://img.shields.io/github/forks/theanant404/Baseline-Vscode-Extension?style=social)
+![GitHub issues](https://img.shields.io/github/issues/theanant404/Baseline-Vscode-Extension)
 
 ---
 
-**Made with ❤️ by [Anant Kumar](https://github.com/your-username)**
+**Made with ❤️ by [Anant Kumar](https://github.com/theanant404)**
 
 _Happy coding with better browser compatibility awareness!_ 🎉
