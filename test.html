@@ -1,0 +1,47 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test Browser Support</title>
+    <style>
+      .container {
+        display: flex;
+        background-color: lightblue;
+        padding: 20px;
+        border-radius: 8px;
+      }
+
+      h1 {
+        color: darkblue;
+        font-size: 24px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Test HTML Elements</h1>
+      <p>Hover over elements like div, h1, p to see browser support!</p>
+      <button onclick="testFunction()">Click me</button>
+    </div>
+
+    <script>
+      function testFunction() {
+        console.log("Button clicked!");
+        document.querySelector(".container").style.transform = "scale(1.1)";
+      }
+
+      // Test JavaScript elements
+      fetch("/api/test")
+        .then((response) => response.json())
+        .then((data) => console.log(data));
+
+      localStorage.setItem("test", "value");
+      setTimeout(() => {
+        alert("Hello World!");
+      }, 2000);
+    </script>
+  </body>
+</html>
